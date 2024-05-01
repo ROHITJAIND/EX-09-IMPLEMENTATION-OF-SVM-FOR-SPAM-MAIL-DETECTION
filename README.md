@@ -1,30 +1,22 @@
-# Implementation-of-SVM-For-Spam-Mail-Detection
-
-## AIM:
+# EX-09 Implementation of SVM For Spam Mail Detection
+### AIM:
 To write a program to implement the SVM For Spam Mail Detection.
-
-## Equipments Required:
+### Equipments Required:
 1. Hardware – PCs
 2. Anaconda – Python 3.7 Installation / Jupyter notebook
+### Algorithm
+1. Import the packages.
+2. Analyse the data.
+3. Use modelselection and Countvectorizer to preditct the values.
+4. Find the accuracy and display the result.
 
-## Algorithm
-1. 
-2. 
-3. 
-4. 
-
-## Program:
 ```
-/*
-Program to implement the SVM For Spam Mail Detection..
-Developed by: 
-RegisterNumber:  
-*/
+Developed By: ROHIT JAIN D 
+Register No : 212222230120
 ```
+### Program:
 
-## Output:
-![SVM For Spam Mail Detection](sam.png)
+### Output:
 
-
-## Result:
+### Result:
 Thus the program to implement the SVM For Spam Mail Detection is written and verified using python programming.
